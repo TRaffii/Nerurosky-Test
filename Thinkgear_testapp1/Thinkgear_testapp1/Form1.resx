@@ -130,7 +130,11 @@
    1) Relax :)
    2) Clear your mind
    3) Close your eyes
-   4) Take a deep breath and slowly exhale</value>
+   4) Take a deep breath and slowly exhale
+
+
+vh
+</value>
   </data>
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>135, 16</value>
